@@ -1,5 +1,7 @@
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> I'm a design undergraduate currently attending a coding bootcamp
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ggkim0614)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ggkim0614/ggkim0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
