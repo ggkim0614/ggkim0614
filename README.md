@@ -1,6 +1,6 @@
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> I'm an IXD undergraduate at [ArtCenter](https://www.artcenter.edu/), currently attending a coding bootcamp based in Seoul, Korea: [WeCode](https://github.com/wecode-bootcamp-korea).
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ggkim0614)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ggkim0614/github-readme-stats)
 
 <!--
 **ggkim0614/ggkim0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
