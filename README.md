@@ -2,8 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ggkim0614/github-readme-stats)
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ggkim0614/ggkim0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
