@@ -1,7 +1,8 @@
 # ✌️ Digital Product Designer
 ### currently an IXD undergraduate at [@ArtCenter](https://www.artcenter.edu/)
 
-<h3>🛠️ I can work with...</h3>
+
+<h4>🛠️ I can work with...</h3>
 
 <div style="flex">
  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
