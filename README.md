@@ -1,4 +1,4 @@
-# ✌️ I'm a Digital Product Designer
+# ✌️ Digital Product Designer
 ### currently an IXD undergraduate at [@ArtCenter](https://www.artcenter.edu/)
 
 <h3>🛠️ I can work with...</h3>
