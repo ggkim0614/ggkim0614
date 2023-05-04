@@ -1,8 +1,6 @@
 # ✌️ Digital Product Designer
 ### currently an IXD undergraduate at [@ArtCenter](https://www.artcenter.edu/)
 
-<hr />
-
 <h3>🛠️ I can work with...</h3>
 
 <div style="flex">
