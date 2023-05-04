@@ -1,4 +1,4 @@
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> I'm an IXD undergraduate at [ArtCenter](https://www.artcenter.edu/), currently attending a coding bootcamp based in Seoul, Korea: [WeCode](https://github.com/wecode-bootcamp-korea).
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>✌️ I'm a Digital Product Designer - currently an IXD undergraduate at [ArtCenter](https://www.artcenter.edu/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ggkim0614/github-readme-stats)
 
