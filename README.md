@@ -1,5 +1,5 @@
 # ✌️ Digital Product Designer
-### currently studying BS in Interaction Design at [@ArtCenter](https://www.artcenter.edu/)
+<div> currently studying BS in <strong>Interaction Design</strong> at [@ArtCenter](https://www.artcenter.edu/) </div>
 
 <h3>🛠️ I can work with...</h3>
 
