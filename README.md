@@ -1,4 +1,4 @@
-# ✌️ I Design & Code.
+# ✌️ I Design & Code
 <div> currently studying <strong>Interaction Design</strong> at <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
 <h3>🛠️ I can work with...</h3>
