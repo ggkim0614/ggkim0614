@@ -1,7 +1,7 @@
 ### Product Designer
 <div> currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
-<h3>🛠️ I can work with...</h3>
+##### 🛠️ I can work with...
 
 <div style="flex">
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
