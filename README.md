@@ -1,8 +1,6 @@
 ### Product Designer
 <div> currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
-##### 🛠️ I can work with...
-
 <div style="flex">
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -14,7 +12,6 @@
  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </div>
-
 
 <hr />
 
