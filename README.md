@@ -1,6 +1,7 @@
 ### Product Designer
 <div> currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
+<hr />
 
 <div style="flex">
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -15,7 +16,6 @@
 </div>
 
 <hr />
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2046%20mins-blue)
