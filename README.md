@@ -1,4 +1,4 @@
-#### Product Designer
+### Product Designer
 <div> currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
 <hr />
