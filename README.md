@@ -16,33 +16,11 @@
 
 <hr />
 
-<!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JSON                     12 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
-YAML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-TypeScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Git Config               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-
-🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/06/2023 18:40:29 UTC
-<!--END_SECTION:waka-->
 
 <!--
 **ggkim0614/ggkim0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
