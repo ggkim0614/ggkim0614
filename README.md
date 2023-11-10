@@ -1,6 +1,8 @@
 ## User Experience Designer
 <div> currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
+<div> + coding bootcamp grad (front-end development) </div> 
+
 <hr />
 
 <div style="flex">
