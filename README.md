@@ -1,7 +1,7 @@
 ## Product Designer
-<div><ul>currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></ul>ul</div>
+<div>currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
-<div><ul>Coding bootcamp grad (front-end development)</ul></div> 
+<div>Coding bootcamp grad (front-end development)</div> 
 
 <hr />
 
