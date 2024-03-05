@@ -3,8 +3,6 @@
 
 <br/>
 
-<div>Coding bootcamp grad (front-end development)</div> 
-
 <hr />
 
 <div style="flex">
