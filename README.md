@@ -1,5 +1,5 @@
 ## Product Designer
-<div>Currently studying <strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
+<strong>Interaction Design</strong> @ <strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
 
 <hr />
 
@@ -15,12 +15,6 @@
 </div>
 
 <hr />
-
-
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2023%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
-
 
 <!--
 **ggkim0614/ggkim0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
