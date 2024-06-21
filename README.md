@@ -1,2 +1,2 @@
 ## Interaction/UX Designer
-<strong>Interaction Design</strong> @<strong><a href="https://www.artcenter.edu/">ArtCenter College of Design</a></strong></div>
+<strong>Interaction Design</strong> <strong><a href="https://www.artcenter.edu/">@ArtCenter College of Design</a></strong></div>
