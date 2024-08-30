@@ -1,1 +1,1 @@
-<div><code>Interaction Designer</code><code>Prototyper</code></div>
+<div><code>Interaction Designer</code>&nbsp;<code>Prototyper</code></div>
